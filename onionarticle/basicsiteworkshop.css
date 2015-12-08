@@ -1,0 +1,45 @@
+div img {
+	height: 100%;
+	width: 100%;
+}
+
+.header {
+	margin: 0 auto;
+	float: center;
+}
+
+div {
+	float: center;
+	display: block;
+}
+
+
+h3 {
+	margin: 0 auto;
+	position: absolute;
+	float: center;
+	text-align: center;
+}
+
+img {
+	max-width: 300px;
+	height: auto;
+	border: solid black 10px;
+	margin: 25px auto;
+	position: relative;
+	display: block;
+}
+
+
+div p {
+	font-size: 14px;
+	height: 150px;
+	width: 50%;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}
+
+ul li {
+	list-style: none;
+}

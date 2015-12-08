@@ -1,0 +1,28 @@
+div {
+	width: 50%;
+}
+
+.banner {
+	background-color: white;
+	float: left;
+	padding: 16px;
+}
+
+.banner2 {
+	background-color: red;
+	float: right;
+	padding: 16px;
+}
+
+.socialmediabar {
+	position: fixed;
+	width: 200px;
+	height: 90px;
+	top: 55%;
+	background-color: blue;
+
+}
+
+span {
+	color: white;
+}

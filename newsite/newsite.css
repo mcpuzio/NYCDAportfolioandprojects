@@ -1,0 +1,68 @@
+p {
+	margin: 0 auto;
+	color: blue;
+	font-style: serif;
+	width: 50%;
+	border: red solid 3px;
+	padding: 9px; 
+}
+
+h1 {
+	background-color: red;
+	color: black;
+	font: georgia;
+	width: 296px;
+	float: right;
+	padding: 10px;
+	margin-right: 303px;
+	text-indent: 20px;
+}
+
+#header {
+	color: white;
+	background-color: black;
+	height: 50px;
+	font-size: 26px;
+	text-indent: 100px;
+	padding: 20px 0 0 0;
+}
+
+#NYC {
+	background-color: red;
+	display: inline-block;
+	width: 500px;
+}
+
+#footer { 
+	background-color: black;
+	color: white;
+	display: inline-block;
+	float: right;
+	padding-left: 100px;
+	text-indent: 200px;
+	padding: 20px 0 0 0;
+	height: 50px;
+	width: 500px;
+	font-size: 26px;
+	margin-top: 50px;
+
+}
+
+.class {
+	background-color: blue;
+	font: Verdana white 15px;
+	position: absolute;
+	display: block;
+}
+
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 15px;
+}
+li img {
+	width: 40px;
+	height: 40px;
+	margin: 0 auto;
+	padding: 20px;
+}

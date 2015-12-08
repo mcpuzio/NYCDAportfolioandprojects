@@ -1,0 +1,57 @@
+div {
+	border: solid 4px #fff;
+}
+
+
+#container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#banner {
+		background-color: #000099;
+		height: 20%;
+		width: 900px;
+		font: #fff;
+		text-align: center;
+		}
+
+img {
+	left: 600px;
+	position: fixed;
+	height: 250px;
+	width: 250px;
+}
+
+
+#VoteForMe {
+		background-color: blue;
+		width: 25%;
+		height: 300px;
+		position: relative;
+		border: solid 4px #1a8cff;
+		display: block;
+}
+
+#OnGoings {
+		background-color: #0033cc;
+		width: 15%;
+		height: 200px;
+		float: left;
+		border: dotted 4px #fff;
+		font: #fff 20px;
+		padding: 100px;
+}
+
+span {
+	color: white;
+	margin: 0 auto;
+}
+
+a:visited {
+	font: red;
+}
+
+a:link {
+	color: white;
+}

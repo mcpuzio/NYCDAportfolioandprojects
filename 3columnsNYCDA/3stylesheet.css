@@ -1,0 +1,23 @@
+div {
+	width: 33.3333333333%;
+}
+
+#banner1 {
+	background-color: blue;
+	position: relative;
+	float: left;
+}
+
+#banner2 {
+	background-color: white;
+	position: relative;
+	float: right;
+	/*left: 33.3333333333%;*/
+}
+
+#banner3 {
+	background-color: red;
+	position: relative;
+	float: right;
+	/*left: 66.6666666666%;*/
+}
