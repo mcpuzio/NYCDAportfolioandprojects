@@ -6,8 +6,7 @@ $(document).ready(
 
 			$("h1").fadeIn(2000);
 				});
-		$("p").click(function(){
-        $(this).hide();
+		$("p").hide(function(){
     });
 
 	});
